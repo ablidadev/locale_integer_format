@@ -1,3 +1,0 @@
-= locale_integer_format
-
-Redmine plugin. Enables input and display of integer custom fields with decimal separator set in locale.
